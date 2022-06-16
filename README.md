@@ -1,5 +1,3 @@
 # Cocktail Menu
 
-15th React Project
-
-The App can be found here : https://cocktail-menu.vercel.app/
+The App is hosted here : https://cocktail-menu.vercel.app/
